@@ -9,5 +9,8 @@ The dataset contains a total of 14 coulmns (13 features and one output label cal
 ## Model :
 Logistic Regression model is trained using given dataset.
 
+## Hyper-parameter tuning :
+Hyperparameters tuned are - No. of Iterations and Regularization Constant.
+
 ## Conclusion :
 Check the report above for results.
